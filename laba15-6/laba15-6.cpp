@@ -28,8 +28,8 @@ int main() {
         }
     }
 
-    printf("Minimum element: %d\n", min);
-    printf("Maximum element: %d\n", max);
+    printf("Minimum: %d\n", min);
+    printf("Maximum: %d\n", max);
 
     free(A);
 
